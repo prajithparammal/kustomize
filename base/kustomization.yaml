@@ -1,0 +1,5 @@
+resources:
+  - nginx.yaml
+
+commonLabels:
+  owner: prajith
