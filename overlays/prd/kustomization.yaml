@@ -5,3 +5,6 @@ namePrefix: prd-
 
 commonLabels:
   env: prd
+
+patches:
+  - replica-count.yaml
