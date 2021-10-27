@@ -2,3 +2,6 @@ bases:
   - ../../base
 
 namePrefix: prd-
+
+commonLabels:
+  env: prd
