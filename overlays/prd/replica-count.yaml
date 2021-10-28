@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx
+  name: example-deploy
 spec:
-  replicas: 4
+  replicas: 6
